@@ -1,0 +1,19 @@
+# Android Studio / Gradle
+.gradle/
+local.properties
+.idea/
+*.iml
+**/build/
+*.apk
+*.aab
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+secrets.properties
+credentials.json
+*.jks
+*.keystore
+*.p12
+*.key
